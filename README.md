@@ -2,7 +2,7 @@
 - 👀 I’m interested in promblem solving  Ai ,Machine learning , deep learning , c++ and python
 - 🌱 I’m currently learning work on my promblem solving skills using c++
 - 💞️ I’m looking to collaborate ... 
-- 📫 How to reach me ...
+- 📫 How to reach me  fathypepo9@gmail.com
 
 <!---
 Fathy89/Fathy89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
