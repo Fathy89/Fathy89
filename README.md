@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Fathy89
-- 👀 I’m interested in promblem solving  Ai ,Machine learning , deep learning , c++ and python
-- 🌱 I’m currently learning work on my promblem solving skills using c++
-- 💞️ I’m looking to collaborate ... 
-- 📫 How to reach me  fathypepo9@gmail.com
+# 👋 Hi, I’m @Fathy89
 
-<!---
-Fathy89/Fathy89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm passionate about **problem solving**, **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**.  
+I enjoy working with **C++**, **Python**, and **SQL Server**, and I'm constantly striving to improve my technical and analytical skills.
+
+## 🌱 Currently Learning
+I'm currently focusing on enhancing my **problem-solving skills using C++** and diving deeper into AI and data-driven technologies.
+
+## 🤝 Looking to Collaborate On
+- AI & ML projects  
+- Open-source contributions  
+- Problem-solving challenges  
+- C++ or Python-based applications  
+
+## 📫 How to Reach Me
+📧 Email: [fathypepo9@gmail.com](mailto:fathypepo9@gmail.com)
+
+---
+
+> "Stay curious, keep learning, and build things that matter." 🔍💡
